@@ -1,0 +1,31 @@
+html{
+    height: 100%;
+    font-family: 'Loto', sans-serif;
+}
+
+body{
+    text-align: left;
+    height: fit-content;
+    width: 1020px;
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 20%;
+    line-height: 7mm;
+}
+
+hr{
+    border-color: #375c99;
+}
+img{
+    float: left;
+    height: 240px;
+    border: 2px solid #113168;
+    margin: 5px 20px 5px 5px;
+}
+header h2{
+    margin-left: 20px;
+}
+
+.personal{
+    margin-left: 167px;
+}
